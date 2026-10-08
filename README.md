@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hindustan Prime
 
-<!--
-**joplinbusinessjournal-afk/joplinbusinessjournal-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build free online calculators and tools. No sign-ups, no fees — fast tools that run right in your browser.
 
-Here are some ideas to get you started:
+## Our sites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [MedicaidWorkCheck](https://medicaidworkcheck.com) — Medicaid work-requirement exemption checker, hours tracker, and state-by-state guides (English + Spanish).
+- [BankHolidayToday](https://bankholidaytoday.com) — Bank holiday checker for the US, UK, and India.
+- [CalcSolver India](https://calcsolver.in) — Finance calculators for India: EMI, SIP, GST, income tax.
+- [CalcSolver Pro](https://calcsolverpro.net) — Step-by-step math calculators for students.
+- [FoodNear](https://foodnear.info) — Find the best restaurants near you.
+- [FootballSchedule](https://footballschedule.info) — NFL and college football schedules.
+- [PaycheckByState](https://paycheckbystate.com) — Take-home pay calculator for every US state.
+- [SolveCalcPro](https://solvecalcpro.com) — 60+ free calculators: scientific, graphing, finance, health.
+- [SolveCalcPro Games](https://solvecalcpro.info) — Calculator with Code Mode hiding hundreds of classroom games.
+- [SpinTheWheel](https://spinthewheel.pro) — Free spin-the-wheel picker for classrooms, parties, and giveaways.
